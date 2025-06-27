@@ -22,7 +22,7 @@ export default function WeatherDetails({ weatherData }) {
   ) {
     return (
       <div className="text-red-500 text-center">
-        Weather data could not be loaded. Please try another city.
+        Loading.....
       </div>
     );
   }
